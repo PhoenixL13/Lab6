@@ -1,4 +1,4 @@
-{ text-decoration: none;<br>
+#main-nav { text-decoration: none;<br>
     position: absolute;<br>
     top:-34px;<br>
     right: 10px;<br>
@@ -6,12 +6,12 @@
   font-size: 1.8em;}
 ***
 
-{ margin-top: 20px;<br>
+#header h1 { margin-top: 20px;<br>
   margin-left: 20px;<br>
   margin-bottom: 20px;}
 ***
 
-{   position: absolute;<br>
+#header h1 {   position: absolute;<br>
     left: 420px;<br>
     top:5px;<br>
   font-size: 3em;<br>
